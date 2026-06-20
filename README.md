@@ -121,13 +121,22 @@ https://your-vercel-link.vercel.app
 
 ---
 
+Add your youtube link here.
+
+```text
+https://your-youtube-link
+```
+
+---
+
+
 ## Connect With Me
 
 GitHub:
 https://github.com/Fatima-Ismat
 
 LinkedIn:
-Add your LinkedIn profile link here
+https://www.linkedin.com/in/ismatfatima/
 
 ---
 
