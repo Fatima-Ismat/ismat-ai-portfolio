@@ -116,7 +116,7 @@ Governor Initiative for Artificial Intelligence, Web 3.0 & Metaverse
 Add your Vercel deployment link here.
 
 ```text
-https://your-vercel-link.vercel.app
+https://ismat-ai-portfolio.vercel.app/
 ```
 
 ---
